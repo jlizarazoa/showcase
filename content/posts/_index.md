@@ -1,7 +1,7 @@
 ---
 menu:
   after:
-    name: blog
+    name: presentations
     weight: 50
-title: Blog
+title: ¿Quiénes somos?
 ---
