@@ -174,3 +174,7 @@ function draw() {
   background(255, 0, 255);
 }
 {{< /p5-widget >}}
+
+## Breathing Square Illusion
+
+{{<p5-iframe sketch="showcase/sketches/Breathing Square Illusion.js" width="520" height="520"}}
