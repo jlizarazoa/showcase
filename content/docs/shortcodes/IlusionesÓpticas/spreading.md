@@ -177,4 +177,4 @@ function draw() {
 
 ## Breathing Square Illusion
 
-{{<p5-iframe sketch="showcase/sketches/Breathing Square Illusion.js" width="520" height="520"}}
+{{<p5-iframe sketch="/showcase/sketches/Breathing Square Illusion.js" width="520" height="520"}}
